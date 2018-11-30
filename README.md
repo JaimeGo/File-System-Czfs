@@ -6,13 +6,13 @@ Complete file system created by my teammates and me for the "Operating Systems a
 
 ### Integrantes del equipo
 
-* Ian Fieldhouse Becerra, 16203615
+* Ian Fieldhouse Becerra
 
-* Ignacio Sarovic, 10633855
+* Ignacio Sarovic
 
-* Cristóbal Espinoza Jimenez, 16635205
+* Cristóbal Espinoza Jimenez
 
-* Jaime González, 11636475
+* Jaime González
 
 ### Decisiones de diseño
 
