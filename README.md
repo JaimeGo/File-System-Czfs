@@ -1,5 +1,9 @@
 # Proyecto 1: Sistemas Operativos y Redes 2018-2.
 
+### Description in english
+
+Complete file system created by my teammates and me for the "Operating Systems and Networks" course at PUC. Usage is described in the "requirements.pdf" file, in spanish.
+
 ### Integrantes del equipo
 
 * Ian Fieldhouse Becerra, 16203615
